@@ -11,7 +11,7 @@ cmd='hostname'
 remote.remote(cmd)
 
 也可以直接带参数在命令行中调用
-示例：
+示例： 
 python remote.py hostname
 
 注意在命令行中注意引号转移的问题 。如果不提供参数会报错。
